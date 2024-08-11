@@ -1,0 +1,43 @@
+2024-08-10 13:56:12 - Starting DbhElkApplication using Java 22.0.1 with PID 9496 (/home/arafin/projects/IDEA-PROJECTS/DBH/dbh-elk/target/classes started by arafin in /home/arafin/projects/IDEA-PROJECTS/DBH/dbh-elk)
+2024-08-10 13:56:12 - No active profile set, falling back to 1 default profile: "default"
+2024-08-10 13:56:13 - Tomcat initialized with port 8080 (http)
+2024-08-10 13:56:13 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-10 13:56:13 - Starting service [Tomcat]
+2024-08-10 13:56:13 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-10 13:56:13 - Initializing Spring embedded WebApplicationContext
+2024-08-10 13:56:13 - Root WebApplicationContext: initialization completed in 626 ms
+2024-08-10 13:56:13 - Starting ProtocolHandler ["http-nio-8080"]
+2024-08-10 13:56:13 - Tomcat started on port 8080 (http) with context path '/'
+2024-08-10 13:56:13 - Started DbhElkApplication in 1.205 seconds (process running for 1.774)
+2024-08-10 13:56:30 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-10 13:56:30 - Initializing Servlet 'dispatcherServlet'
+2024-08-10 13:56:30 - Completed initialization in 1 ms
+2024-08-10 13:56:30 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 13:56:47 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 13:57:07 - Starting DbhElkApplication using Java 22.0.1 with PID 9669 (/home/arafin/projects/IDEA-PROJECTS/DBH/dbh-elk/target/classes started by arafin in /home/arafin/projects/IDEA-PROJECTS/DBH/dbh-elk)
+2024-08-10 13:57:07 - No active profile set, falling back to 1 default profile: "default"
+2024-08-10 13:57:08 - Tomcat initialized with port 8080 (http)
+2024-08-10 13:57:08 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-10 13:57:08 - Starting service [Tomcat]
+2024-08-10 13:57:08 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-10 13:57:08 - Initializing Spring embedded WebApplicationContext
+2024-08-10 13:57:08 - Root WebApplicationContext: initialization completed in 583 ms
+2024-08-10 13:57:08 - Starting ProtocolHandler ["http-nio-8080"]
+2024-08-10 13:57:08 - Tomcat started on port 8080 (http) with context path '/'
+2024-08-10 13:57:08 - Started DbhElkApplication in 1.114 seconds (process running for 1.679)
+2024-08-10 14:17:13 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-10 14:17:13 - Initializing Servlet 'dispatcherServlet'
+2024-08-10 14:17:13 - Completed initialization in 1 ms
+2024-08-10 14:17:13 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:17:14 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:17:16 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:17:17 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:18:23 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:18:24 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:18:26 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:18:27 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:19:24 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:19:28 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:19:53 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:19:55 - My fruit lists: [Apple, Orange, Grapes]
+2024-08-10 14:19:57 - My fruit lists: [Apple, Orange, Grapes]

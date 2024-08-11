@@ -1,0 +1,36 @@
+
+curl -u elastic -k https://localhost:9200
+
+elasticsearch.hosts: ["https://localhost:9200"]
+
+bin/elasticsearch-service-tokens create elastic/kibana my-kibana-token
+
+elasticsearch.serviceAccountToken: "AAEAAWVsYXN0aWMva2liYW5hL215LWtpYmFuYS10b2tlbjpvc2c4UXlOVFFDU25zZFhQUDBZTF9R"
+
+elasticsearch.ssl.verificationMode: none
+
+
+bin, root and conf
+./logstash -f logstash.conf
+
+localhost:5601
+
+curl -X GET "https://localhost:9200/_cat/indices?v" -u elastic:wdA1iJP2Lhrr8h8Tks2u --insecure
+
+https://localhost:9200/_cat
+
+https://localhost:9200/_cat/indices
+
+https://localhost:9200/dbhindex/_search
+
+http://localhost:5601/app/home#/  (Kibana)
+
+
+//Spring Boot
+logging.file.path=/home/arafin/elk/elk.log
+logging.level.root=INFO
+
+
+
+
+
